@@ -37,7 +37,8 @@ printf("Updated array:\n");
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/aa2e0ad2-10f1-4c1b-b022-9b385ecd3b47)
+<img width="1129" height="254" alt="image" src="https://github.com/user-attachments/assets/e06a76df-af15-4524-b8f8-f7b1434aa2a9" />
+
 
 
 ## Result:
