@@ -45,7 +45,8 @@ NULL) ? "None" : emp1->manager->name);
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/4f426d76-b3a5-48cc-8193-9f997d50fa1c)
+<img width="1130" height="454" alt="image" src="https://github.com/user-attachments/assets/9c579ac7-69e3-4984-9948-02b54f928083" />
+
 
 
 ## Result:
